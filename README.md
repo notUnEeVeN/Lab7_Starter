@@ -1,4 +1,5 @@
 # Lab 7 - Starter
+Tybalt Mallet, No partner
 
 1. Definitely #1, within a github action that runs whenever code is being pushed, this selection allows us to not rely on the developers remembering to do it every time (#2), and prevents a human mistake from ocurring. Also this automated check would happen before code is merged into the rest of the codebase, thus always catching bugs before they actually impact the rest of the project. Running after development becomes significantly more complicated, and it will often be more difficult to go back and fix everything after the fact, as major unnoticed issues could occur, that would otherwise be preventable from consistent testing.
 
